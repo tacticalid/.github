@@ -1,2 +1,4 @@
 # NOTICE
-Use of Tactical ID Software and this Repo is in accordance with our [EULA](./EULA.docx)
+Use of Tactical ID Software and this Repo is in accordance with our [EULA](./EULA.md)
+
+[Download a Copy](./EULA.docx)
